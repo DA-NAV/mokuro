@@ -48,6 +48,12 @@ pip3 install mokuro
 ```bash
 mokuro /path/to/manga/vol1
 ```
+(In Windows go to the folder where mokuro.exe is located, it is shown during installation) 
+
+```bash
+python3 -m mokuro /path/to/manga/vol1
+```
+(In Linux)
 
 This will generate `/path/to/manga/vol1.html` file, which you can open in a browser.
 
